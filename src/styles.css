@@ -1,0 +1,8 @@
+button {
+  background-color: teal;
+  color: white;
+  border: none;
+  margin-left: 5px;
+  cursor: pointer;
+  height: 25px;
+}
